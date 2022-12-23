@@ -2,7 +2,7 @@
 
 #### *A list of helpful material to develop using Angular*
 
-#### *Rajender Thota*
+
 
 ##### Current Angular version:
 ![version](https://img.shields.io/npm/v/@angular/core.svg?maxAge=2592000)
